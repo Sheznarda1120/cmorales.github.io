@@ -2,16 +2,14 @@
 
 ## Imágenes de los candidatos
 ### Aquiles Alvarez
-![Aquiles Alvarez](/ruta/a/la/imagen.jpg)
+![Aquiles Álvarez](/ruta/a/la/imagen.jpg)
 ### Cinthia Viteri
-*![Cinthia Viteri](/ruta/a/la/imagen.jpg)
+*![Cynthia Viteri](/ruta/a/la/imagen.jpg)
 
 ## Resultados 
 
 Tablas 
-| Candidato | Votos   |
+| Candidatos | Votos   |
 | ------- | -------- |
-| Aquiles Alvarez  | 551, 996   |
-| Cinthia Viteri   | 420, 208   |
-
-
+| Aquiles Álvarez  | 500, 987   |
+| Cynthia Viteri   | 440, 374   |
